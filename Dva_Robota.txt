@@ -1,0 +1,11 @@
+/*Dva robota*/
+
+pocetak:
+	R
+	L
+	R
+	S
+	G pocetak
+samo_desno:
+	R
+	G samo_desno
